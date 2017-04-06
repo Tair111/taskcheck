@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    margin:0 auto;
+    max-width: 800px;
+}
+
+caption {
+    padding-bottom: 19px;
+}
+
+span.sure {
+    color: #ff0000;
+}
+
+span.success {
+    color: forestgreen;
+}
+
+.panel {
+    border: 1px solid #010101;
+    padding: 30px;
+    max-width: 800px;
+}
+#intro {
+
+}
+
+.users_table {
+    border: 1px solid #010101;
+    max-width: 800px;
+    /*font-style: italic;*/
+}
+.users_table td,  th {
+    border: 1px solid #010101;
+    padding: 19px;
+}
+.pages_table td,  th {
+    border: 1px solid #010101;
+    padding: 2px;
+}
+
+.gender_male {
+    /*font-style: italic;*/
+    color: blue;
+}
+
+.gender_female {
+    /*font-style: italic;*/
+    color: deeppink;
+}
+
+.avatar {
+    z-index: 100;
+}
+
+.imgcontainer {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+.imgcontainer img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
